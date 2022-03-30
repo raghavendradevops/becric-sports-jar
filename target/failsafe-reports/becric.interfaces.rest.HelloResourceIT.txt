@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: becric.interfaces.rest.HelloResourceIT
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.295 sec - in becric.interfaces.rest.HelloResourceIT
